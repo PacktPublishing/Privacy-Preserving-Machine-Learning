@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/privacy-preserving-machine-learning/9781800564671"><img src="https://m.media-amazon.com/images/I/711kNKHPZ1L._SL1500_.jpg" alt="no-image" height="256px" align="right"></a>
 
-This is the code repository for [Privacy-Preserving Machine Learning]([https://github.com/PacktPublishing/Privacy-Preserving-Machine-Learning](https://www.packtpub.com/product/privacy-preserving-machine-learning/9781800564671)), published by Packt.
+This is the code repository for [Privacy-Preserving Machine Learning](https://www.packtpub.com/product/privacy-preserving-machine-learning/9781800564671), published by Packt.
 
 **A use-case-driven approach to building and protecting ML pipelines from privacy and security threats**
 
