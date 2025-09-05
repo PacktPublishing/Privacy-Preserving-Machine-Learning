@@ -1,3 +1,6 @@
+
+<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/packt+events/Improve_UX.png)](https://packt.link/algotradingpython)</p></b> 
+
 # Privacy-Preserving Machine Learning
 
 <a href="https://www.packtpub.com/product/privacy-preserving-machine-learning/9781800564671"><img src="https://m.media-amazon.com/images/I/711kNKHPZ1L._SL1500_.jpg" alt="no-image" height="256px" align="right"></a>
