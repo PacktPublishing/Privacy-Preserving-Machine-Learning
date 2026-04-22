@@ -1,5 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/ship-production-pytorch-system-in-a-day-train-optimize-deploy-workshop-tickets-1983348934052?aff=GitHub'><img src='https://static.packt-cdn.com/assets/images/packt+events/workshop_ashish_github.png'/></a></p>
-
 # Privacy-Preserving Machine Learning
 
 <a href="https://www.packtpub.com/product/privacy-preserving-machine-learning/9781800564671"><img src="https://m.media-amazon.com/images/I/711kNKHPZ1L._SL1500_.jpg" alt="no-image" height="256px" align="right"></a>
